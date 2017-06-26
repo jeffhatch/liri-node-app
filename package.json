@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "do-what-it-says"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffhatch/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffhatch/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jeffhatch/liri-node-app#readme"
+}
